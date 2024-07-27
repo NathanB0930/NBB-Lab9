@@ -1,6 +1,8 @@
 from decode import *
 from encode import *
 
+# Test Change
+
 def encode(password):
     encoded = ""
     for i in password:
