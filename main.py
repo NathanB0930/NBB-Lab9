@@ -1,5 +1,5 @@
 from decode import *
-
+from encode import *
 
 def encode(password):
     encoded = ""
